@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: fc6af498fe7ba1644b76b2a4ea315bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1305014008522993888
+    second: CSoldierAnimatedver3_0
+  - first:
+      213: 6936056984964844424
+    second: CSoldierAnimatedver3_1
+  - first:
+      213: 1458753316337642118
+    second: CSoldierAnimatedver3_2
+  - first:
+      213: -5424851033025868867
+    second: CSoldierAnimatedver3_3
+  - first:
+      213: 774691800473555296
+    second: CSoldierAnimatedver3_4
+  - first:
+      213: 1797840692927012190
+    second: CSoldierAnimatedver3_5
+  - first:
+      213: -6990313601128152571
+    second: CSoldierAnimatedver3_6
+  - first:
+      213: 8618837620548367267
+    second: CSoldierAnimatedver3_7
+  - first:
+      213: -1927898780084116979
+    second: CSoldierAnimatedver3_8
+  - first:
+      213: -999850064830551195
+    second: CSoldierAnimatedver3_9
+  - first:
+      213: 4372687314426941606
+    second: CSoldierAnimatedver3_10
+  - first:
+      213: 3212968975371819982
+    second: CSoldierAnimatedver3_11
+  - first:
+      213: 9044674615558935616
+    second: CSoldierAnimatedver3_12
+  - first:
+      213: -7294989110662624752
+    second: CSoldierAnimatedver3_13
+  - first:
+      213: -2150733856590353841
+    second: CSoldierAnimatedver3_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 480
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 321
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0fbe493575c1210800000000000000
+      internalID: 1305014008522993888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1074
+        width: 373
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b42ba3413d14060800000000000000
+      internalID: 6936056984964844424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1073
+        width: 335
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a6a3399688e3410800000000000000
+      internalID: 1458753316337642118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_3
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1074
+        width: 306
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb05114abe07b4b0800000000000000
+      internalID: -5424851033025868867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1074
+        width: 285
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06152a9861240ca00800000000000000
+      internalID: 774691800473555296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 568
+        width: 323
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d18a8b59633f810800000000000000
+      internalID: 1797840692927012190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 567
+        width: 313
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cc28e0da6dfe90800000000000000
+      internalID: -6990313601128152571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 559
+        width: 323
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fe8db6234c9770800000000000000
+      internalID: 8618837620548367267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 559
+        width: 320
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026d22264abe35e0800000000000000
+      internalID: -1927898780084116979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_9
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 555
+        width: 324
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56baf19d9a1df12f0800000000000000
+      internalID: -999850064830551195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 308
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0564ae1f7eeac30800000000000000
+      internalID: 4372687314426941606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 35
+        width: 365
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb53639242c69c20800000000000000
+      internalID: 3212968975371819982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 29
+        width: 340
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044126164a3258d70800000000000000
+      internalID: 9044674615558935616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 38
+        width: 334
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8c9aed0ef2ca90800000000000000
+      internalID: -7294989110662624752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CSoldierAnimatedver3_14
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 324
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa687d3fe0722e0800000000000000
+      internalID: -2150733856590353841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cc0e169ad631834e857649b28017410
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
